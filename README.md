@@ -175,7 +175,7 @@ Supply-Chain-Analytics-Dashboard
 │    └── fact_sales_monthly.zip
 │
 ├── Dashboard
-│     └── Supply_Chain_Dashboard.pdf
+│     └── SupplyChainDashboard.pdf
 │
 └── README.md
 ```
