@@ -1,4 +1,4 @@
-## Supply Chain & Profitability Analytics (2019–2022)
+## Supply Chain & Profitability Analytics
 
 ### Project Overview
 
